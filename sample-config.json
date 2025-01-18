@@ -1,0 +1,17 @@
+{
+    "media_dir": "/Users/swadnerkar/Music",
+    "podcasts": [
+        {
+            "id": "GPS",
+            "url": "https://feeds.megaphone.fm/WMHY7703459968"
+        },
+        {
+            "id": "TheRealTime",
+            "url": "https://feeds.megaphone.fm/WMHY1886903044"
+        },
+        {
+            "id": "TheRemnant",
+            "url": "https://feeds.megaphone.fm/DISPME4897766830"
+        }
+    ]
+}
