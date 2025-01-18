@@ -10,6 +10,6 @@ A podcast downloader written in Go
 ```
 go run main.go [-pid <podcastId>] [-count <countOfEpisodes>]
 ```
-
+By default, it downloads the latest episode of all podcasts.
 
 
